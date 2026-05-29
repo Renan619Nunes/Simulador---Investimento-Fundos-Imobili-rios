@@ -16,15 +16,19 @@ Para operar o simulador corretamente, siga as etapas descritas abaixo no preench
       **- Sugestão Investimento:** Opcionalmente, utilize este campo para registrar o valor ideal que gostaria de poupar de acordo com o seu planejamento financeiro pessoal.
 
 **Passo 02 -** No bloco INVESTIMENTO MENSAL, configure as variáveis de simulação que alimentarão o motor de juros compostos:
+
       **- Investimento/Mes:** Defina a quantia em dinheiro que sera efetivamente aportada todos os meses.
       **- Anos:** Defina o horizonte de tempo padrao da simulacao corrente.
       **- Rendimento Mensal:** Ajuste a taxa de juros esperada para os ativos de Fundos Imobiliários.
+      
 A planilha exibira imediatamente nas linhas inferiores os resultados consolidados para o periodo escolhido.
 
 O bloco CENÁRIOS FUTUROS dispensa edições. Ele calcula de forma automática o crescimento do patrimônio e o respectivo recebimento de dividendos em quatro marcos temporais pré-definidos: 02 anos, 05 anos, 10 anos e 20 anos. Utilize esta área para avaliar o efeito "bola de neve" dos dividendos reinvestidos a longo prazo.
 
 **Passo 03 -** No bloco PERFIL, insira a classificação do seu perfil de investidor. O simulador aceita os seguintes parâmetros:
+
      **CONSERVADOR;**
      **MODERADO:**
      **AGRESSIVO**
+     
 Ao atualizar o Perfil e o campo Valor investido/mês, a tabela inferior executará uma busca na base de dados da Planilha2 para exibir o Percentual Sugerido e os Valores exatos em dinheiro que devem ser distribuídos por categoria.
