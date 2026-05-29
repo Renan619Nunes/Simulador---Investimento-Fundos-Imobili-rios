@@ -10,6 +10,7 @@ O arquivo esta dividido em duas abas principais que operam em conjunto:
 Para operar o simulador corretamente, siga as etapas descritas abaixo no preenchimento do painel principal (Planilha1):
    
 **Passo 01 -** No bloco denominado CONFIGURACOES, insira os seus dados de base financeira:
+
       **- Salario:** Digite a sua renda mensal atual.
       **- Rendimento Carteira:** Defina a taxa percentual de rendimento estimada para a sua carteira base.
       **- Sugestão Investimento:** Opcionalmente, utilize este campo para registrar o valor ideal que gostaria de poupar de acordo com o seu planejamento financeiro pessoal.
