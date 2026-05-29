@@ -32,3 +32,6 @@ O bloco CENÁRIOS FUTUROS dispensa edições. Ele calcula de forma automática o
      **AGRESSIVO**
      
 Ao atualizar o Perfil e o campo Valor investido/mês, a tabela inferior executará uma busca na base de dados da Planilha2 para exibir o Percentual Sugerido e os Valores exatos em dinheiro que devem ser distribuídos por categoria.
+
+<img width="581" height="573" alt="image" src="https://github.com/user-attachments/assets/3845c0b1-2122-4c4c-820b-f00e0eb01d9b" />
+<img width="680" height="475" alt="image" src="https://github.com/user-attachments/assets/8dacbe2f-afff-4726-b723-8a33a3f5978a" />
